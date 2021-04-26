@@ -2,4 +2,4 @@
 
 ### Simon team 😻
 
-![simon](/Users/ilyaartemev/Desktop/dbms_profiler/img/simon.jpeg)
+![simon](https://github.com/Untouchabl3Pineapple/dbms_profiler/blob/master/img/simon.jpeg)
